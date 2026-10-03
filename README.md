@@ -17,8 +17,10 @@ From 2018 to 2026 I ran Three Arrows, a software company where I led a team of 1
 
 React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, AWS, Vercel, Docker, and the Claude, OpenAI and Gemini APIs.
 
-## Note
+## Why my repositories are private
 
-Most of my code lives in private repositories (company and client work, and GEOREX itself), so the contribution graph shows more than the public repos here. Happy to walk through real code on a call.
+My code is commercial work: my own products and client projects. So I keep my repositories private, and there are no public repos to browse here. The contribution graph below still counts my private commits, so it shows how actively I work.
+
+If you'd like to see real code, I'm happy to walk you through it on a call.
 
 [LinkedIn](https://www.linkedin.com/in/zeeshangeorex/)
